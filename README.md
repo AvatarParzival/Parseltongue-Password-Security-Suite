@@ -53,7 +53,7 @@ The app is organized into three tabs:
 
 | Check Strength | Password Generator |
 |--------------|----------------------|
-| ![Check Strength](/screenshots/main.png) | ![Stats Tab](screenshots/PasswordGenerator.png) |
+| ![Check Strength](/blob/main/screeenshots/main.png) | ![Stats Tab](screenshots/PasswordGenerator.png) |
 
 | About |
 |---------------|
