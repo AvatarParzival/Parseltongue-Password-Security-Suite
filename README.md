@@ -13,15 +13,15 @@
 
 ## 📑 Table of Contents
 
-- [✨ Features](#features)
-- [🖼️ Interface](#interface)
-- [📸 Screenshots](#Screenshots)
-- [🚀 Getting Started](#getting-started)
-- [🧮 How Scoring Works](#how-scoring-works)
-- [🔐 Privacy](#privacy)
-- [📁 Project Structure](#project-structure)
-- [🛠️ Requirements](#requirements)
-- [📄 License](#license)
+- [✨ Features](#-features)
+- [🖼️ Interface](#-interface)
+- [📸 Screenshots](#-Screenshots)
+- [🚀 Getting Started](#-getting-started)
+- [🧮 How Scoring Works](#-how-scoring-works)
+- [🔐 Privacy](#-privacy)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Requirements](#-requirements)
+- [📄 License](#-license)
 
 ---
 
