@@ -155,7 +155,3 @@ Breach checks use the **HIBP range API**: the password is SHA-1 hashed locally, 
 ## 📄 License
 
 Released under the MIT License — free to use, modify, and distribute.
-
----
-
-<sub>Built by <b>VortexTech</b> · CyberSec Portfolio</sub>
